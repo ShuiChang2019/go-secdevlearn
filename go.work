@@ -1,0 +1,7 @@
+go 1.21.0
+
+use(
+    ./SCANNER-MultiThread-Type1
+    ./SCANNER-MultiThread-Type2
+    ./SCANNER1
+)

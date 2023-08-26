@@ -1,4 +1,4 @@
-module SCANNER1
+module SCANNER-MultiThread-Type1
 
 go 1.21.0
 
